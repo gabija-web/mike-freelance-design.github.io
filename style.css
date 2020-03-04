@@ -91,11 +91,11 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/*.texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
-
+*/
 .d-bloc {
     color: rgba(255, 255, 255, .7);
 }
@@ -812,7 +812,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/atlanta made sign.jpg");
 }
 
 .bg-lines-h2-bg {
